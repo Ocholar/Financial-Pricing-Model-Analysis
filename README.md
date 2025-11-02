@@ -65,14 +65,12 @@ This script ensures that the model is dynamic, auditable, and free from hard-cod
 
 Key Assumptions
 
-1.
-Target Margin: A target margin of 25% (the midpoint of the 20-30% range) was used for all calculations.
+1. Target Margin: A target margin of 25% (the midpoint of the 20-30% range) was used for all calculations.
 
-2.
-FX Rate: The confirmed 1700 MWK/USD rate was used for all USD conversions.
+2. FX Rate: The confirmed 1700 MWK/USD rate was used for all USD conversions.
 
-3.
-Adoption: 2024 unit demand was forecasted by applying 2023 adoption percentages to the projected 2024 farmer base.
+3. Adoption: 2024 unit demand was forecasted by applying 2023 adoption percentages to the projected 2024 farmer base.
+
 
 Core Financial Formulas
 
