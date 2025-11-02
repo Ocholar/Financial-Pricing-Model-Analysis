@@ -73,7 +73,7 @@ The aggregate figures in the 'Pricing Model' tab were calculated as follows:
 **MEMORANDUM**
 
 **TO:** CFO and Country Director (CD)
-**FROM:** [Candidate Name]
+**FROM:** Reagan Ochola
 **DATE:** November 3, 2025
 **SUBJECT:** Additional Factors for Consideration in 2024 Pricing Model Review
 
@@ -97,7 +97,7 @@ The pricing model is driven by a target margin and cost recovery, but it does no
 
 The pricing goal mentions staying within +/-5% of the current season market price, but the model does not explicitly incorporate a competitive analysis.
 
-*   **Impact on Competitiveness:** A strong price increase, even if cost-justified, could make OAF's bundles less attractive compared to local competitors who may have different cost structures or are willing to operate on lower margins.
+*   **Impact on Competitiveness:** A strong price increase, even if cost-justified, could make bundles less attractive compared to local competitors who may have different cost structures or are willing to operate on lower margins.
 *   **Recommendation:** Conduct a **real-time market survey** of competitor pricing for comparable bundles in the Southern and Central regions to validate the competitiveness of the proposed prices before final approval.
 
 ### 4. Non-Financial Programmatic Costs
