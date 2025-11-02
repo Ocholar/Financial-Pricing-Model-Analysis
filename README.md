@@ -45,13 +45,21 @@ Forecasting: Use the 2023 bundle adoption rates to forecast 2024 farmer unit dem
 The financial model was implemented in a Python script (pricing_model_update.py) to ensure transparency, auditability, and scalability—a key requirement of the exercise.
 
 🐍 Python Script Functionality (pricing_model_update.py)
+
 The pricing_model_update.py script serves as the engine for the entire financial model update. It performs the following key functions:
-Data Ingestion: Reads all relevant tabs (Pricing Model, Input Sheet, Bundle Configuration, 2023 Adoption) from the Excel workbook into Pandas DataFrames.
-COGS Calculation: Programmatically calculates the total Cost of Goods Sold (COGS) for each product bundle by summing the COGS of its individual components, sourcing data from the Bundle Configuration tab.
-Selling Price Determination: Applies the core financial formula to calculate the new Selling Price (MWK) for every product, ensuring the 25% target margin is met after factoring in the 98% repayment rate and 0.5% inventory shrink.
-Adoption Forecasting: Calculates the 2024 adoption units for each region by applying the derived 2023 adoption percentages to the projected 2024 farmer base.
-Model Update: Calculates all final metrics (Total Revenue, COGS, Margin, Margin %) in both the Input Sheet (per product) and the Pricing Model (aggregate) tabs, using the new 1700 MWK/USD FX rate.
-Output Generation: Writes the updated DataFrames back into a new, completed Excel file, preserving the original structure of all sheets.
+
+1. Data Ingestion: Reads all relevant tabs (Pricing Model, Input Sheet, Bundle Configuration, 2023 Adoption) from the Excel workbook into Pandas DataFrames.
+
+2. COGS Calculation: Programmatically calculates the total Cost of Goods Sold (COGS) for each product bundle by summing the COGS of its individual components, sourcing data from the Bundle Configuration tab.
+
+3. Selling Price Determination: Applies the core financial formula to calculate the new Selling Price (MWK) for every product, ensuring the 25% target margin is met after factoring in the 98% repayment rate and 0.5% inventory shrink.
+
+4. Adoption Forecasting: Calculates the 2024 adoption units for each region by applying the derived 2023 adoption percentages to the projected 2024 farmer base.
+
+5. Model Update: Calculates all final metrics (Total Revenue, COGS, Margin, Margin %) in both the Input Sheet (per product) and the Pricing Model (aggregate) tabs, using the new 1700 MWK/USD FX rate.
+
+6. Output Generation: Writes the updated DataFrames back into a new, completed Excel file, preserving the original structure of all sheets.
+
 This script ensures that the model is dynamic, auditable, and free from hard-coded calculations, demonstrating a robust approach to financial data management.
 
 
