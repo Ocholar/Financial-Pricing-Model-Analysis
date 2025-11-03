@@ -46,7 +46,7 @@ Formulas Used
 * For the main bundles (0.2 Acre, 1.5 Acre, 1 Acre, 1/2 Acre Maize), COGS is the sum of the COGS of all products inside each bundle, as listed in “Bundle Configuration.”
 
 
-1. Selling Price (MWK)
+2. Selling Price (MWK)
 
 
 * Selling price is set to reach a 25% margin after factoring in non-repayment and inventory shrink.
@@ -61,7 +61,7 @@ Selling Price=Repayment Rate×(1−Inventory Shrink)Required Revenue​
 
 
 
-1. Adoption Units (No. of Farmers)
+3. Adoption Units (No. of Farmers)
 
 
 * Applied the 2023 adoption % to 2024 projected farmer numbers per region.
@@ -76,7 +76,7 @@ Selling Price=Repayment Rate×(1−Inventory Shrink)Required Revenue​
 
 
 
-1. Total Revenue, COGS, and Margin (USD)
+4. Total Revenue, COGS, and Margin (USD)
 
 
 * Added Southern and Central figures, then converted MWK to USD using the new FX rate.
@@ -103,7 +103,7 @@ Product Margin %=Total Revenue (USD)Total Margin (USD)​
 
 
 
-1. Pricing Model tab calculations
+5. Pricing Model tab calculations
 
 
 * Total Farmers (Core Program USD):
