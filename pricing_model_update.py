@@ -5,7 +5,7 @@ import numpy as np
 input_file = "/home/ubuntu/upload/_Candidate_Name_-_2024_Pricing_Model_-_MW.xlsx"
 output_file = "2024_Pricing_Model_Completed.xlsx"
 
-# --- Assumptions and Constants from PDF ---
+# --- Assumptions and Constants ---
 FX_RATE_DEC_2023 = 1700.0
 REPAYMENT_RATE = 0.98
 INVENTORY_SHRINK = 0.005
