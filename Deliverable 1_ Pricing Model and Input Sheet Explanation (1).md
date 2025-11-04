@@ -94,31 +94,21 @@ Product Margin %=Total Revenue (USD)Total Margin (USD)​
 5. Pricing Model tab calculations
 
 
-* Total Farmers (Core Program USD):
-
-Sum of Southern + Central projected farmers.
+* Total Farmers (Core Program USD): Sum of Southern + Central projected farmers.
 
 
-* Total Revenue/COGS/Margin (Core Program USD):
-
-Sum of the respective columns from the “Input Sheet.”
+* Total Revenue/COGS/Margin (Core Program USD): Sum of the respective columns from the “Input Sheet.”
 
 
-* Regional Revenue/COGS/Margin:
-
-Split by farmer ratio:
-Regional Value=Core Program USD Value×Total FarmersRegional Farmers​
+* Regional Revenue/COGS/Margin: Split by farmer ratio: Regional Value=Core Program USD Value×Total FarmersRegional Farmers​
 
 
-* Margin %:
-Margin %=Total RevenueMargin​
+* Margin %: Margin %=Total RevenueMargin​
 
-* TX Size (Transaction Size):
-TX Size=Total FarmersTotal Revenue​
+* TX Size (Transaction Size): TX Size=Total FarmersTotal Revenue​
 
-* FX Rate:
+* FX Rate: Set to 1700.0 for all regions.
 
-Set to 1700.0 for all regions.
 
 
 
