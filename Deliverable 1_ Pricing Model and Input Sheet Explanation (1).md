@@ -5,35 +5,23 @@ Process and Assumptions
 
 Assumptions
 
-1. FX rate for 2024 pricing:
-
-Used the confirmed December 2023 FX rate of 1700 MWK/USD for all USD conversions in the 2024 model.
+1. FX rate for 2024 pricing: Used the confirmed December 2023 FX rate of 1700 MWK/USD for all USD conversions in the 2024 model.
 The rumored 15% devaluation in Q2 2024 was noted but not used in the base pricing, since it is speculation and prices should be approved by August 2024. This is covered in Deliverable 2.
 
 
-2. Target margin:
-
-The goal is 20%–30% margin. We used 25% (the midpoint) to set selling prices.
+2. Target margin: The goal is 20%–30% margin. We used 25% (the midpoint) to set selling prices.
 
 
-3. Repayment rate:
-
-Used a strong repayment rate of 98% (0.98) when calculating selling prices needed to hit target revenue.
+3. Repayment rate: Used a strong repayment rate of 98% (0.98) when calculating selling prices needed to hit target revenue.
 
 
-4. Inventory shrink:
-
-Included inventory shrink/loss of 0.5% (0.005) in the selling price calculation.
+4. Inventory shrink: Included inventory shrink/loss of 0.5% (0.005) in the selling price calculation.
 
 
-5. 2024 adoption rate:
-
-Assumed the 2024 bundle adoption rate is the same as 2023: Total Adoption (2023) / Total Farmers (2023).
+5. 2024 adoption rate: Assumed the 2024 bundle adoption rate is the same as 2023: Total Adoption (2023) / Total Farmers (2023).
 
 
-6. Regional split for totals:
-
-In the “Pricing Model” tab, first calculated Core Program USD totals (revenue, COGS, margin), then split Southern vs Central using the ratio of their projected 2024 farmer numbers.
+6. Regional split for totals: In the “Pricing Model” tab, first calculated Core Program USD totals (revenue, COGS, margin), then split Southern vs Central using the ratio of their projected 2024 farmer numbers.
 
 
 
@@ -86,10 +74,10 @@ Selling Price=Repayment Rate×(1−Inventory Shrink)Required Revenue​
 * Total Revenue (MWK):
 Total Revenue (MWK)=(Southern Units×Southern Selling Price)+(Central Units×Central Selling Price)
 
-* Total Revenue (USD):
+* Total Revenue (USD): 
 Total Revenue (USD)=FX RateTotal Revenue (MWK)​
 
-* Total COGS (MWK):
+* Total COGS (MWK): 
 Total COGS (MWK)=(Southern Units×Southern COGS)+(Central Units×Central COGS)
 
 * Total COGS (USD):
@@ -135,11 +123,18 @@ Set to 1700.0 for all regions.
 
 
 Deliverable 2: Memo for CFO and CD
+
 MEMORANDUM
+
 TO: CFO and Country Director (CD)
+
 FROM: Reagan Ochola
+
 DATE: November 3, 2025
+
 SUBJECT: Extra factors to consider in the 2024 pricing review
+
+
 This memo highlights important issues beyond the model’s stated assumptions that you should consider when reviewing the 2024 pricing model.
 
 1. Exchange rate volatility and speculation
